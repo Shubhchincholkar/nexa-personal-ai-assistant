@@ -1,0 +1,6 @@
+{
+  "name": "NEXA - Personal AI Assistant",
+  "description": "Modular, terminal-based AI assistant for Android (Termux) and Linux with tool calling, device actions, and Gemini reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
